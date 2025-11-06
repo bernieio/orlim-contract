@@ -531,10 +531,9 @@ copies or substantial portions of the Software.
 
 ## 📞 Support & Community
 
-- 💬 **Discord**: [DevPros Community](https://discord.gg/devpros)
-- 🐦 **Twitter**: [@DevProsTeam](https://twitter.com/devprosteam)
-- 📧 **Email**: team@devpros.team
-- 🐛 **Issues**: [GitHub Issues](https://github.com/devpros-team/orlim/issues)
+- 🐦 **Twitter**: [@DevProsTeam](https://twitter.com/bernie_io)
+- 📧 **Email**: bernie.web3@gmail.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/bernieio/orlim-contract/issues)
 
 ---
 
