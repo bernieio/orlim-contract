@@ -1,0 +1,162 @@
+# Move build artifacts
+.mvbuild/
+build/
+*.mv
+*.bytecode
+
+# Sui client configuration and cache
+.sui/
+sui-config.yaml
+sui-client.yaml
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Environment and configuration files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs and debugging
+logs/
+*.log
+*.trace
+.coverage*
+coverage/
+lcov.info
+
+# Test outputs and data
+test-results/
+test-output/
+test-data/
+test-wallets/
+
+# Node.js dependencies (if using frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+
+# Lock files (keep package.json but ignore lock files)
+package-lock.json
+yarn.lock
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Gas analysis and profiling
+gas-profiles/
+*.prof
+perf-results/
+benchmarks/
+
+# Deployment artifacts
+deployments/
+deploy/
+deploy-config/
+
+# Documentation build
+docs/build/
+_site/
+
+# Local development
+.cache/
+.temp/
+tmp/
+
+# Sui specific debugging
+.debug/
+debug/
+
+# Move package manager
+Move.toml.local
+Move.lock
+
+# Bytecode analysis
+bytecode-analysis/
+contract-analysis/
+
+# Security and audit files
+.audit/
+security-reports/
+vulnerability-scans/
+
+# Performance monitoring
+performance-metrics/
+monitoring/
+
+# CI/CD
+.github/workflows/cache/
+.gitlab-ci-local/
+
+# Local scripts
+scripts/local-*
+local-*
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Archive and compression
+*.zip
+*.tar.gz
+*.rar
+
+# Generated documentation
+docs/generated/
+api-docs/
+
+# Wallet and key files (NEVER commit these)
+*.key
+*.pem
+wallets/
+private-keys/
+mnemonics/
+
+# Contract deployment state
+deployment-state/
+deployed-contracts/
+contract-addresses/
+
+# Market data and trading logs
+market-data/
+trading-logs/
+order-books/
+
+# AI/ML model files
+*.pkl
+*.model
+models/
+
+# Large binary files
+*.bin
+*.exe
+*.dmg
+*.iso
