@@ -469,8 +469,8 @@ sui.events.subscribe({
 
 - 🔗 **GitHub**: [@bernieio](https://github.com/bernieio)
 - 🎯 **Expertise**: Sui Move, Smart Contract Security, DeFi Protocols
-- 📧 **Contact**: bernieio@devpros.team
-- 🌐 **Website**: [devpros.team](https://devpros.team)
+- 📧 **Contact**: bernie.web3@gmail.com
+- 🌐 **Facebook**: [devpros.space](https://facebook.com/devpros.space)
 
 ### 🏆 Our Mission
 At DevPros Team, we are committed to:
@@ -508,20 +508,20 @@ copies or substantial portions of the Software.
 
 ## 🚀 Roadmap
 
-### 🎯 Short Term (Q1 2024)
+### 🎯 Short Term (Q4 2025)
 - [x] Production-ready smart contract
 - [x] Comprehensive test suite
 - [x] Security audit completion
-- [ ] Frontend SDK development
+- [x] Frontend SDK development
 - [ ] Mainnet deployment
 
-### 🌟 Medium Term (Q2 2024)
+### 🌟 Medium Term (Q1 2026)
 - [ ] Advanced order types (stop-loss, take-profit)
 - [ ] Multi-asset portfolio management
 - [ ] Analytics and reporting dashboard
 - [ ] Mobile wallet integration
 
-### 🚀 Long Term (Q3-Q4 2024)
+### 🚀 Long Term (Q2-Q3 2026)
 - [ ] Cross-chain order routing
 - [ ] Advanced trading algorithms
 - [ ] Institutional-grade features
@@ -531,7 +531,8 @@ copies or substantial portions of the Software.
 
 ## 📞 Support & Community
 
-- 🐦 **Twitter**: [@DevProsTeam](https://twitter.com/bernie_io)
+- 💬 **Telegram**: [@bernieio](https://t.me/bernieio)
+- 🐦 **Twitter**: [@bernie_io](https://twitter.com/bernie_io)
 - 📧 **Email**: bernie.web3@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/bernieio/orlim-contract/issues)
 
