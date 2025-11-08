@@ -964,13 +964,36 @@ async def monitor_trading_bot():
 ### 🏢 DevPros Team
 **Orlim** is developed and maintained by the **DevPros Team**, a collective of elite blockchain developers focused on building production-grade decentralized applications.
 
-### 👨‍💻 Founder & Lead Developer
-**Bernieio** - Founder, Team Lead, and Principal Architect
+### 👨‍💻 Team Members
+
+#### **Bernieio** - Owner/Main Developer
+Founder, Team Lead, and Principal Architect
 
 - 🔗 **GitHub**: [@bernieio](https://github.com/bernieio)
+- 💬 **Telegram**: [@bernieio](https://t.me/bernieio)
 - 🎯 **Expertise**: Sui Move, Smart Contract Security, DeFi Protocols
-- 📧 **Contact**: bernie.web3@gmail.com
-- 🌐 **Facebook**: [devpros.space](https://facebook.com/devpros.space)
+- 📧 **Email**: bernie.web3@gmail.com
+
+#### **Gon** - Important Member
+Core Developer and Contributor
+
+- 🔗 **GitHub**: [@kieulamtung](https://github.com/kieulamtung)
+- 💬 **Telegram**: [@bia160121](https://t.me/bia160121)
+- 📧 **Email**: darkgonqx@gmail.com
+
+#### **DavidNad** - Important Member
+Core Developer and Contributor
+
+- 🔗 **GitHub**: [@thelocal69](https://github.com/thelocal69)
+- 💬 **Telegram**: [@CircleDeer66](https://t.me/CircleDeer66)
+- 📧 **Email**: trankhanh740@gmail.com
+
+#### **Mie** - Important Member/Presenter
+Core Developer, Contributor, and Project Presenter
+
+- 🔗 **GitHub**: [@Mie-hoang](https://github.com/Mie-hoang)
+- 💬 **Telegram**: [@miee2901](https://t.me/miee2901)
+- 📧 **Email**: hucniekdam@gmail.com
 
 ### 🏆 Our Mission
 At DevPros Team, we are committed to:
@@ -1013,7 +1036,7 @@ copies or substantial portions of the Software.
 - [x] Comprehensive test suite
 - [x] Security audit completion
 - [x] Frontend SDK development
-- [ ] Mainnet deployment
+- [x] Mainnet deployment
 
 ### 🌟 Medium Term (Q1 2026)
 - [ ] Advanced order types (stop-loss, take-profit)
